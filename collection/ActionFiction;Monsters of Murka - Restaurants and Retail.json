@@ -1,0 +1,1134 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "Restaurants and Retail",
+				"abbreviation": "MoMRaR",
+				"full": "Monsters of Murika: Restaurants and Retail",
+				"authors": [ "ActionFiction" ],
+				"convertedBy": [ "dracoling"],
+				"version": "0.2",
+				"url": "https://www.actionfiction.com/product/restaurants-and-retail/",
+				"targetSchema": "1.1.0"
+			}
+		],
+		"dateLastModified": 1676901441,
+		"dateAdded": 1676877872
+	},
+	"book": [
+		{
+			"name": "Monsters of Murika: Restaurants and Retail",
+			"id": "MoMRaR",
+			"source": "MoMRaR",
+			"published": "2022-10-12",
+			"group": "homebrew",
+			"contents": [
+				{
+					"name": "Introduction",
+					"headers": [
+						"Welcome to Restaurants and Retail"
+					]
+				},
+				{
+					"name": "Player Options",
+					"headers": [
+						"Alternate Race Options",
+						"Backgrounds",
+						"Feats",
+						"Artificer",
+						"Barbarian",
+						"Bard",
+						"Cleric",
+						"Druid",
+						"Fighter",
+						"Monk",
+						"Paladin",
+						"Ranger",
+						"Rogue",
+						"Sorcerer",
+						"Warlock",
+						"Wizard",
+						"Optional Rules"
+					]
+				},
+				{
+					"name": "Flavor City",
+					"headers": [
+						"Introduction",
+						"The Crust District",
+						"The Smoking District",
+						"The Well-Done District",
+						"Filling District",
+						"Garnish Gardens",
+						"Whipped Peaks",
+						"Factions",
+						"Ads and Adventure Hooks"
+					]
+				}
+
+			]
+		}
+	],
+	"bookData": [
+		{
+			"id": "MoMRaR",
+			"source": "MoMRaR",
+			"data": [
+				{
+					"type": "section",
+					"name": "Introduction",
+					"id": "Introduction",
+					"source": "MoMRaR",
+					"page": 2,
+					"entries": [
+						{ 
+							"type": "section",
+							"name": "Welcome to Restaurants and Retail",
+							"id": "Welcome to Restaurants and Retail",
+							"entries": [
+								"Hark, William Maize here! God of trade and commerce\u2014the big cheese himself\u2014I'm here with an AMAZING new item: the book you're reading right now! That's right, Monsters of Murka: Restaurants & Retail is finally here, and it's better than even I could have imagined!",
+								"This time around, we're going to step away from the broad-scope, political world of the Monsters of Murka core book and talk about something that has defined Murkan culture since the very beginning: Capitalism! Personally, it's a favorite of mine, so I recommend it, 10 OUT OF 10, every time!!",
+								"Restaurants & Retail has everything you could ever want to help you and your companions navigate the commercial world of Murka. We have subclasses, spells, wacky new items, we've even got monsters to guarantee you'll never sleep peacefully again\u2014and we're just getting started!",
+								"Go on a fantastic voyage to some of the greatest places in the kingdom: places where the free market lives on! You'll go to the restuaropolis of Flavor City, home to the mighty and bodacious Guillame Fierre and his Paladins of Flavor. Here you'll fight sentient food, cook up new spells, and sample some of the greatest cuisine ever conceived of by sapient life. I mean, the food here is literally OUT OF THIS WORLD.",
+								"Next, we'll take you to the City in A Bottle, the Hall of Murka! This world-withinwalls is run by a living legend, the gigantic folk hero Tall Hammertoe. You'll meet other fantastic characters like the prankster duo Jey and The Silent Tongue, and Ratinim, a spymaster who dreams of revenge.",
+								"The Hall of Murka offers up some of the best in merchandise, underground housing, and horrors from the deep! Leave those pesky morals at home, because here, capital is king.",
+								"BUT I'M NOT DONE YET! After you depart the Hall of Murka, you'll travel to one of the strangest places yet! Within Murka lives a virulent cancer known as Walmoria: a truly gargantuan superstore that not only dips underground, but we're pretty sure it dips into lost demiplanes and other universes\u2014 but we literally cannot confirm that! There's a whole new set of rules for handling just how deep it can get its claws into the heart and mind of the most stalwart of heroes. Walmoria is so weird, I actually doubled over, and threw up just inside the door!",
+								"That's right! Walmoria is so capitalistic it made me, the god of commerce, sick to my core! So sick that if you send a writwit RIGHT NOW, I'll include an autographed copy of my holy hospital bills alongside your copy of Monsters of Murka: Restaurants & Retail! That's an incredible deal!",
+								"BUT I'M GOING TO TAKE IT ONE STEP FURTHER! Every location chapter in this book includes adventure hooks, notes from your favorite characters, and alternative rules suggestions! All of this is on top of the endless hours of parody and commentary infused into every paragraph on every page.",
+								"This is your front row seat to see a culture so obsessed with money that they made ME one of their gods!"
+							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Player Options",
+					"id": "Player Options",
+					"source": "MoMRaR",
+					"entries": [
+						{
+							"type": "section",
+							"name": "Alternate Race Options",
+							"id": "Alternate Race Options",
+							"entries": [
+								"The The following Alternate Race Options are available for characters native to Murka, in addition to those offered in other supplements.",
+								{
+									"type": "entries",
+									"name": "Flavor Dragonborn",
+									"page": 3,
+									"entries": [
+										"Descendants of the mythical flavor dragons of their namesake, flavor dragonborn are born having been altered by the primordial energies of Flavor City's mystical Grill Lines, Flavor Savers, and the undeniable presence of Fierre. The mouthwatering mixture of gourmomancy responsible for their creation causes such rare dragonborn to develop \"frost tipped\" horns that glitter in dazzling gold, silver, or shades of white. In place of an elemental breath weapon, such dragonborn release a booming belch of force capable of toppling even the sturdiest of enemies, guaranteed to take them down a notch.",
+										"Unfortunately, many unscrupulous people often hunt these poor beings for their rumored excellent taste. A few unscrupulous flavor dragonborn have also tried to use the rumors of their excellent taste as pick up lines with… mixed results.",
+										{
+											"type": "entries",
+											"name": "Flavor Dragonborn Traits",
+											"entries": [
+												"Should you choose to play a flavor dragonborn, you gain the following draconic ancestry:",
+												{
+													"type": "table",
+													"colLabels": [
+														"Dragon Type",
+														"Damage Type",
+														"Breath Weapon"
+													],
+													"rows": [
+														[
+															"Flavor",
+															"Thunder",
+															"15 ft. cone (Con save)"
+														]
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Ability Score Increase",
+													"entries": [
+														"You've got a flavor dragon's legendary charm and the ability to handle the weird culinary concoctions that fans will throw at you. Your Charisma score increases by 2 and your Constitution score increases by 1."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Legacy of Flavor",
+													"entries": [
+														"You have a radical sense of perception when it comes to foodstuffs. You have advantage on Wisdom (Perception) and Intelligence (Investigation) checks relating to food."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Dragon Soul Food",
+													"entries": [
+														"Once per short or long rest, you can cook a meal and season it with the very essence of your soul. The number of people you can feed is equal to your Constitution modifier +1 (minimum 1).",
+														"Those who eat this food gain temporary hit points equal to twice your level, which last until the creature finishes a long rest."
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Backgrounds",
+							"id": "Backgrounds",
+							"page": 3,
+							"entries": [
+								"The following Background Options are available for characters native to regions or factions described in Restaurants & Retail, in addition to those offered in other supplements. These backgrounds may also be crucial in accessing exclusive areas of each region, or faction headquarters.",
+								{
+									"type": "entries",
+									"name": "Benne Jerryzet Neophyte",
+									"page": 4,
+									"entries": [
+										"You are an agent of the Benne Jerryzet's secret revolutionary forces, trained in their frozen treat parlors to work in the shadows to provide aid to the light. While you may or may not have become a monk of the order, you nevertheless share their mission of peace and justice for all freefolk in Murka and beyond. Regardless of how far you progressed, you likely had a mentor, some amount of study in their ancient and mystical ways, and you might have even made a friend or two in another parlor.",
+										"Perhaps you have wanted to join this order for some time and have finally been given the opportunity to serve. Maybe this started as a summer job for you and you've gone too far to back out now. In any event, you have received your training, and you are ready to lend your skills to the cause.",
+										{
+											"type": "entries",
+											"entries": [
+												{ 
+													"type": "entries",
+													"name": "Skill Proficiencies",
+													"entries": [
+														"Deception, Insight"
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Tool Proficiencies",
+													"entries": [
+														"Brewer's Supplies, Cook's Utensils"
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Equipment",
+													"entries": [
+														"Brewer's Supplies, a set of traveler's clothes, a name tag (which may have an alias on it), the symbol of your order (a large metal spoon, spork, or ladel), and a belt pouch containing 15 gp."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Feature: Shelter in the Freezer",
+											"page": 5,
+											"entries": [
+												"As a Neophyte, you have earned the respect and friendship of your brethren of the Benne Jerryzet. You are able to perform the labors of the order in any of their parlors. You and your adventuring companions can expect aid and healing, or at least an extra scoop or topping, at any parlor, kiosk, or pop-up shop devoted to the order. Senior members will support you (but not necessarily your allies) at a modest lifestyle, wherever you may be.",
+												"You have ties to a specific parlor and have a locker there. While near your parlor, you can call upon other members of the Benne Jerryzet for assistance, provided the assistance you ask is not hazardous to them or their mission and you are in good standing with your parlor."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Suggested characteristics",
+											"page": 5,
+											"entries": [
+												"Use, or mix and match, the tables for the Acolyte, Criminal, or Guild Artisan backgrounds as the basis for your traits and motivations, modifying the entries where appropriate to suit your identity as a Benne Jerryzet Neophyte.",
+												"Your bond is likely an oppressed group you wish to protect, an oppressor you harbor enmity toward, or friends made during your time in the parlors. Your ideal might pertain to a desire to reform a corrupt system to bring about justice, or you may seek to abolish the old system entirely."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Flavor City Citizen",
+									"page": 5,
+									"entries": [
+										"Those born in Flavor City are said to be born under one of the Five Signs of Taste: Salty, Sweet, Umami, Bitter, and Sour, each represented by a particular Flavor Saver. Outside of Flavor City, such superstitious thinking seems ridiculous. But within the bounds of the Flavor Savers, where gourmomancy and saucery run rampant and legends tell of a secret order of ice cream monks that battle cupcakes powerful enough to raze entire districts, the ridiculous becomes reasonable.",
+										"Whether you are a born native to the city, as familiar with its streets as you are your own saucepan, or an immigrant who has grown to love the fragrant streets and alleyways, you call Flavor City home. You, and others who even visit the tasty township, have taken on at least some of the mannerisms and attitudes associated with one of the Five Signs of Taste.",
+										{
+											"type": "entries",
+											"entries": [
+												{
+													"type": "entries",
+													"name": "Tool Proficiencies",
+													"entries": [
+														"Cooking Utensils."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Languages",
+													"entries": [
+														"Learn two languages of your choice."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Equipment",
+													"entries": [
+														"A set of cook's utensils which every citizen is expected to have (though not necessarily use), a set of common clothes, a delivery menu from your favorite restaurant enchanted to withstand time and stains, and a pouch containing 5gp."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Sign of Taste",
+											"entries": [
+												"Choose one of the Five Signs of Taste to be influenced by the most, or roll once on the table below. That sign also determines your skill proficiencies. Those with Crossed Signs are influenced by two Flavor Signs and choose one skill proficiency from each of their signs.",
+												{
+													"type": "table",
+													"colLabels": [
+														"d6",
+														"Sign",
+														"Proficiencies"
+													],
+													"rows": [
+														[ 1, "Salty", "Intimidation, Athletics" ],
+														[ 2, "Sweet", "Persuasion, Deception"],
+														[ 3, "Umami", "Arcana, Investigation"],
+														[ 4, "Bitter", "Survival, History"],
+														[ 5, "Sour", "Insight, Perception"],
+														[ 6, "Crossed Signs", "(roll twice, ignoring this result on subsequent rolls)"]
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Feature: Heart of Flavor",
+											"entries": [
+												"Though not every citizen of Flavor City is a professional in the culinary arts, taste and flavor is something they innately and intricately understand.",
+												"Outside of Flavor City, you are a favored guest in any place that serves food or drink. You (though not necessarily your allies) are able to stay at a tavern or inn for free as long as you are willing to sample and give your honest opinion on the meals prepared. Many remote food professionals find themselves invited to Flavor City based on a recommendation by a Flavor City citizen who returns home to describe their travels. In addition, you always know the nearest portal or pathway to Flavor City.",
+												"Be warned, there are stories about citizens getting food poisoning from overly ambitious or creative chefs who take the opportunity to try their eclectic meals on someone who finally “understands the true complexity” of what the chef was trying to do."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Suggested characteristics",
+											"entries": [
+												"Many Flavor City citizens find that their entire personality seems to be dictated by their Sign of Taste. Some believe this is connected to the alignment of stars, immaterial and invisible planes, and even the orientation of Urth to the Sun. Others simply believe it to be confirmation bias: people looking for the most positive details of themselves in generic descriptors. But, no matter how you slice it, there does seem to be a correlation between the two.",
+													{
+														"type": "table",
+														"caption": "Flavor Citizen Personality Traits",
+														"page": 6,
+														"colLabels": [
+															"Sign",
+															"Personality Trait"
+														],
+														"rows": [
+															[
+																"Salty",
+																"I can be a little much for some people, but I know the importance of what I do, and I don't need their thanks."
+															],
+															[
+																"Sweet",
+																"I'm full of bubbly, creative energy that often masks my true intentions."
+															],
+															[
+																"Umami",
+																"Many find me undefinable, and as such I find myself drawn to life's mysteries."
+															],
+															[
+																"Bitter",
+																"I know I'll survive, I'm used to being ostracized, but I never forget or let go of a slight."
+															],
+															[
+																"Sour",
+																"Many consider me an odd duck, and some can't stand it. Luckily, I've become good at holding my tongue and judging from afar"
+															],
+															[
+																"Crossed",
+																"Though their influence is undeniable, my crossed signs make it easy for me to see shades of gay"
+															]
+														]
+												},
+												{
+													"type": "table",
+													"caption": "Flavor Citizen Ideals",
+													"page": 7,
+													"colLabels": [
+														"d6",
+														"Ideals"
+													],
+													"rows": [
+														[1, "Understanding. Food is a great way to learn about other cultures. I plan to share what I learn to inspire understanding across the planes! (Good)"],
+														[2, "Appropriation. The nature or source of things don't matter, only how I can use it to my advantage. (Evil)"],
+														[3, "Recognition. No matter where I roam or what I do, I reward and honor those who do what they do well. We all play an important part in this world. (Lawful)"],
+														[4, "Experimentation. We can't let reverence for the past stop us from exploring all options in life! If you always do the same thing, you'll always get the same result! (Chaotic)"],
+														[5, "Desire. We are our desires: food, comfort, love. I pursue happiness in whatever shape it may take. (Neutral)"],
+														[6, "Wonder. The universe is filled with flavors untasted and stories untold. I just want to experience it for myself. (Any) "]
+													]
+												},
+												{
+													"type": "table",
+													"caption": "Flavor Citizen Bonds",
+													"page": 7,
+													"colLabels": [
+														"d6",
+														"Bonds"
+													],
+													"rows": [
+														[1, "There's a particular restaurant that I value above all others. The connection is deep and personal."],
+														[2, "A close family member once made a famous dish from rare ingredients that changed my view on life. I desperately wish to recreate it."],
+														[3, "I want to be a famous chef. Despite what my friends, family, and the orphans of my former taste testers say, I know I'll make my dream come true."],
+														[4, "When I was a kid, my face was on the promotional art for a successful business in Flavor City. It still is and I still haven't been paid. Exposure is not currency and I want my compensation."],
+														[5, "I once worked for one of the various food or supply delivery guilds within the city. One night I saw something that shook me to my core. I quit the next day."],
+														[6, "I once bad-mouthed a hack chef who gave me food poisoning and they are now obsessed with me. Apparently, they can't boil water but they sure can hold a grudge. "]
+													]
+												},
+												{
+													"type": "table",
+													"caption": "Flavor Citizen Flaws",
+													"page": 7,
+													"colLabels": [
+														"d8",
+														"Flaws"
+													],
+													"rows": [
+														[1, "I obsessively crave good food and want more of it. Sometimes ALL of it."],
+														[2, "Many people consider me a picky eater, but shove something that matches my sign in front of me and watch me eat!"],
+														[3, "I don't tip for good service or recognize the hard work of others unless someone calls me out on it."],
+														[4, "I'm overly picky and won't accept food or anything else that doesn't match my unrealistically high expectations."],
+														[5, "I expect my allies to share their meals, resources and gear without having to ask. I'll deny wanting anything before hand, though, so they better not be selfish!"],
+														[6, "I'm terribly indecisive. No matter the situation, even if given ample time, I'll wait for the last possible moment to make a decision. Everyone behind me can wait."],
+														[7, "'ll fight before I share, especially food."],
+														[8, "I am the world's greatest chef, and no amount of bad reviews will convince me otherwise."]
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Hallrat",
+									"page": 8,
+									"entries": [
+										"You are, or were, a denizen of the Hall of Murka and a member of Ratinim's hall-spanning cabal of tricksters, dealers, and spies. As a Hallrat, you've become one with the machinery and machinations of the hall. You know which informants are worth visiting and which duo of lovable goofs is causing havoc on a given day. As a Hallrat, you specialize in chaos - but behind the pranks and the eccentricity, you are acutely in control.",
+										"Caution has erased the idea of happenstance for you; every puddle of oil, missing bolt, or mysterious hole in the wall probably serves a purpose. Likewise, outsiders may not understand your goal, but they're certain there is a purpose behind everything you do.",
+										{
+											"type": "entries",
+											"entries": [
+												{
+													"type": "entries",
+													"name": "Skill Proficiencies",
+													"entries": [
+														"Persuasion, Survival"
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Tool Proficiencies",
+													"entries": [
+														"One tool of your choice"
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Equipment",
+													"entries": [
+														"A set of common clothes, a pouch containing 10 gp, and a mechanical insignia you crafted in the Hall of Murka."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Feature: Subterranean Living",
+											"page": 8,
+											"entries": [
+												"You've grown up accustomed to the interior world of the Hall of Murka and are able to swiftly and adeptly navigate those cramped tunnels and corridors. You may have difficulties understanding the concept of above or below ground⁠\u2014everything exists within the hall\u2014but you have advantage on ability checks made to detect trap doors, secret passages, and shortcuts. It's also far more likely that creatures and denizens of the underground world ignore your presence as you pass through the umber chambers of the Underhall.",
+												"In the proper hall, you seem to know everyone. Running into old friends or distant cousins is a common occurrence for you while travelling through the Main Hall or the Crown Floor. You can secure food, shelter, and drinkable water from basically anywhere within the Hall. Additionally, others rarely pay attention to your antics, as most Hall denizens are used to dealing with your crap."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Suggested characteristics",
+											"page": 8,
+											"entries": [
+												"Hallrats belong to a culture almost entirely defined by interior living, espionage, and mercantile careers. While this may not define every aspect of your personality: the acts of espionage, survival, cooperation, and the culture of mischief cultivated in the Hall have left their mark on you.",
+												{
+													"type": "table",
+													"caption": "Hallrat Personality Traits",
+													"page": 8,
+													"colLabels": [
+														"d6",
+														"Personality Trait"
+													],
+													"rows": [
+														[ 1, "I am loud and distracting - and I love it." ],
+														[ 2, "I'm confident, sly, and in the know - and none of that is a secret to anyone." ],
+														[ 3, "I'm blasé and carefree. Honestly, it's not my problem until you make it my problem." ],
+														[ 4, "I let people think that I am a lovable, somewhat clumsy oaf, but in truth there is an acute reason behind everything I do." ],
+														[ 5, "I am silent, and only speak during critical moments to expound great wisdom." ],
+														[ 6, "I am intense, enthusiastic, and a bit of a tryhard. " ]
+													]
+												},
+												{
+													"type": "table",
+													"caption": "Hallrat Ideals",
+													"page": 8,
+													"colLabels": [
+														"d6",
+														"Ideal"
+													],
+													"rows": [
+														[ 1, "Community is everything to me! I'd host a potluck every weekend if I could! (Good)" ],
+														[ 2, "If you can't beat capitalism, beat capitalists with their own capitalism. (Evil)" ],
+														[ 3, "I didn't make these rules, you did. But rest assured, I'll use them to my advantage. (Lawful)" ],
+														[ 4, "What do you mean “What's my agenda?” Wait, do y'all have an agenda? (Chaotic)" ],
+														[ 5, "I'm not even supposed to be here today! (Neutral)" ],
+														[ 6, "I'm just trying to escape this rat-race. (Any) " ]
+													]
+												},
+												{
+													"type": "table",
+													"caption": "Hallrat Bonds",
+													"page": 9,
+													"colLabels": [
+														"d8",
+														"Bond"
+													],
+													"rows": [
+														[ 1, "Ratinim inspires me, I always do my very best to impress him, even if he's probably not watching me. Probably." ],
+														[ 2, "I can feel the Hall in my blood. I would do just about anything for this place." ],
+														[ 3, "I want revenge on someone from the Hall that I see practically every day." ],
+														[ 4, "I lost the love of my life, and I will do anything to get them back." ],
+														[ 5, "I'm in deep cover; no one can find out who I truly work for." ],
+														[ 6, "I have devoted my life to knowing everything there is to know about the Hall." ],
+														[ 7, "There is a person I see on occasion whose life I will make as awful as possible no matter the cost." ],
+														[ 8, "I have a side hustle in the Underhall that I devote much of my free time and money to. " ]
+													]
+												},
+												{
+													"type": "table",
+													"caption": "Hallrat Flaws",
+													"page": 9,
+													"colLabels": [
+														"d8",
+														"Flaw"
+													],
+													"rows": [
+														[ 1, "I am so self-referential it hurts." ],
+														[ 2, "I just wanna make art, ya know? I'll stop and admire art wherever I find it, whatever it is." ],
+														[ 3, "I went so deep into an undercover persona that I forget which is the real me, and which is the persona." ],
+														[ 4, "I can't let go of expensive things. I just want to collect 'em all." ],
+														[ 5, "I'm always looking to interview people for my PlaneCast" ],
+														[ 6, "I treat the whole Hall of Murka like it's my bedroom\u2014and sometimes I forget I'm not there." ],
+														[ 7, "I understand the concept of communal living. I do not understand the concept of personal boundaries." ],
+														[ 8, "I will betray just about anyone to achieve my goals." ]
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Middle Manager",
+									"page": 9,
+									"entries": [
+										"You are a low level manager for a major guild, organization, or trading charter. After years of facing down hordes of rampaging customers in feast day sales, cleaning up piles of slime that seem to have no source, and keeping a smile in the face of Kaerenite customers, your patience and tenacity have been rewarded with a small amount of power. Compared to what you have seen, adventuring is a cakewalk. You have raised through the ranks and either have held, or currently hold, a small amount of authority in your company. You aren't the boss, but you sure know how to act like it.",
+										{
+											"type": "entries",
+											"entries": [
+												{
+													"type": "entries",
+													"name": "Skill Proficiencies",
+													"entries": [
+														"Deception, Perception"
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Tool Proficiencies",
+													"entries": [
+														"Disguise kit, or one set of Artisan's tools relevant to your department"
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Languages",
+													"entries": [
+														"One of your choice except Employese"
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Equipment",
+													"entries": [
+														"A pin or nametag signifying your position,a pen taken from someone of a higher position, a set of Artisan's tools (one of your choice), an abacus, a set of common clothes, and a pouch containing 20 gp"
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Department",
+											"page": 9,
+											"entries": [
+												"Any good company knows that there must be a division of labor, and your organization is no different. While a middle manager may have worked in several different departments, most have one that they prefer, or have spent the most time in. Choose the department you worked for, or roll on the Department table.",
+												{
+													"type": "table",
+													"page": 9,
+													"colLabels": [
+														"d12",
+														"Department"
+													],
+													"rows": [
+														[ "01", "Produce " ],
+														[ "02", "Meat " ],
+														[ "03", "Apparel " ],
+														[ "04", "Pharmacy " ],
+														[ "05", "Firearms " ],
+														[ "06", "Toys " ],
+														[ "07", "Music and Entertainment" ],
+														[ "08", "Home Improvement" ],
+														[ "09", "Pets" ],
+														[ "10", "Greenhouse" ],
+														[ "11", "Sporting Goods" ],
+														[ "12", "Security" ]
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Feature: What Would You Say You Do Here?",
+											"page": 10,
+											"entries": [
+												"You have a knack for knowing when people are not pulling their weight at work and who to report it to. Retail workers will go out of their way to make your experience as pleasant as possible, within reason. People will give you a fair deal on mundane goods, as long as they have a superior that they report to but will not give you free goods, money or influence that could hamper the success of their business."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Suggested characteristics",
+											"page": 8,
+											"entries": [
+												"Middle managers come from all walks of life and can vary wildly in personality. Some are strict authoritarians that use their power and influence to run the tightest ship they can, while others are soft, kind, or even completely hands-off. The organization, coworkers, and products tend to be the things that middle managers value the most.",
+												{
+													"type": "table",
+													"caption": "Middle Manager Personality Traits",
+													"page": 10,
+													"colLabels": [
+														"d8",
+														"Personality Trait"
+													],
+													"rows": [
+														[ 1, "I'm not one of those uptight bosses. Think of me as more of a friend than a manager." ],
+														[ 2, "I have a tendency to repeat myself without noticing that I'm repeating myself every time I repeat myself." ],
+														[ 3, "I'm not afraid to speak my mind, no matter who I'm talking to." ],
+														[ 4, "I prefer to go with the flow; what upper management doesn't know won't hurt them." ],
+														[ 5, "I always have a kind word or piece of advice for whoever I'm working with." ],
+														[ 6, "I am nervous that upper management is watching my every move." ],
+														[ 7, "I live for positive feedback. I will do anything for a five-star review!" ],
+														[ 8, "If we work together, we can accomplish anything! " ]
+
+													]
+												},
+												{
+													"type": "table",
+													"caption": "Middle Manager Ideals",
+													"page": 10,
+													"colLabels": [
+														"d6",
+														"Ideal"
+													],
+													"rows": [
+														[ 1, "The customer is always right. (Lawful)" ],
+														[ 2, "My job is to make the lives of those that work with me a little easier. (Good)" ],
+														[ 3, "People work better if I just watch from a distance. (Chaotic)" ],
+														[ 4, "We would be more efficient if you worked through your lunch break. (Evil)" ],
+														[ 5, "Don't shoot the messenger; I just work here. (Neutral)" ],
+														[ 6, "I just want to make it to the end of my shift unscathed. (Any)" ]
+													]
+												},
+												{
+													"type": "table",
+													"caption": "Middle Manager Bond",
+													"page": 10,
+													"colLabels": [
+														"d6",
+														"Bond"
+													],
+													"rows": [
+														[ 1, "My coworkers are my family, for better or worse." ],
+														[ 2, "I want to dismantle the system that takes advantage of workers from the inside out." ],
+														[ 3, "One day, I am going to run this place, and no one will talk down to me ever again." ],
+														[ 4, "I found enlightenment working nights at the warehouse and I need to share it with the world." ],
+														[ 5, "I would protect my team with my life." ],
+														[ 6, "I was fired for an offense I did not commit and would do anything to get my position back." ]
+													]
+												},
+												{
+													"type": "table",
+													"caption": "Middle Manager Flaw",
+													"page": 10,
+													"colLabels": [
+														"d6",
+														"Flaw"
+													],
+													"rows": [
+														[ 1, "I find dictionaries and encyclopedias to be much more interesting reads than silly novels or magazines." ],
+														[ 2, "I might restock the same shelf a dozen times before it is EXACTLY how I want it." ],
+														[ 3, "My face is frozen in an off-putting smile." ],
+														[ 4, "People cannot be trusted to get a job done alone. Good thing I'm here, right over their shoulder." ],
+														[ 5, "After years of retail, I have become jaded to all but the most novel experiences." ],
+														[ 6, "I will take credit for anything if I think it will better my position. " ]
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Walmorian-Born",
+									"page": 11,
+									"entries": [
+										"You were born amongst the endless aisles of Walmoria. A hundred thousand discounts were your education and capitalist hallways were your playground. For better or for worse, you have spent years navigating the intricacies of Walmoria's byzantine factions, areas and pricing. You might be a grizzled veteran of the Fire Sales, or an ex-faction member looking to escape or even a devout Shop Lifter searching for lost souls to help you find a way out. Regardless, your time amongst the shelves were formative, whether during your formative years or not.",
+										"The outside world might find some of your mannerisms or attitudes strange and unsettling, but you have a unique perspective to everything you see.",
+										{
+											"type": "entries",
+											"entries": [
+												{
+													"type": "entries",
+													"name": "Skill Proficiencies",
+													"entries": [
+														"Survival, Persuasion"
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Tool Proficiencies",
+													"entries": [
+														"One type of artisan's tools"
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Languages",
+													"entries": [
+														"Employese, and one more of yourchoice"
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Equipment",
+													"entries": [
+														"A set of artisan's tools with which you are proficient, a set of discount clothes, a price gun, a book with a single voucher in it, a purse containing 15gp."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Feature: Insider Trading",
+											"page": 11,
+											"entries": [
+												"You know the complex habits and signals of Walmoria that mark one faction from another. This familiarity means you're able to get any Walmorian faction to treat you as one of their own, provided you act the part. Any faction will provide information, hospitality, assistance, and access to restricted areas, as if you were a lowranking member of their faction. If you take any visible action against a faction you are with, they will realize you are not truly one of them."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Suggested characteristics",
+											"page": 11,
+											"entries": [
+												"Having been born in Walmoria can have all sorts of effects on an individual. Growing up amidst the aisles, the managers, the angry Kaerens and indifferent Night Shifters\u2014each of these can impact one's understanding of the world around them. The following are merely a few of the potential ways Walmorian Weirdness can take its toll on its inhabitants.",
+												{
+													"type": "table",
+													"caption": "Walmorian-Born Personality Traits",
+													"page": 11,
+													"colLabels": [
+														"d8",
+														"Personality Trait"
+													],
+													"rows": [
+														[ 1, "A smile and a firm handshake are the key to making friends." ],
+														[ 2, "It's important for me to be unique; I need to stand out in some way." ],
+														[ 3, "I look for angles and advantages at all times." ],
+														[ 4, "I'm a keen observer. Some call it voyeuristic." ],
+														[ 5, "The world is a buffet of delights, and I want to sample them all." ],
+														[ 6, "The sky is too big! It just goes up and up. It's so uncomfortable." ],
+														[ 7, "My home is among shelves and products. Others should respect such wondrous nature." ],
+														[ 8, "I love a deal. It doesn't matter if it's necessary, it's fun! " ]
+													]
+												},
+												{
+													"type": "table",
+													"caption": "Walmorian-Born Ideals",
+													"page": 11,
+													"colLabels": [
+														"d6",
+														"Ideal"
+													],
+													"rows": [
+														[ 1, "Profit. I'm only in it for the money. All of the money. (Evil)" ],
+														[ 2, "Procedure. There are codes of conduct for any and all situations, and one should always abide by them. (Lawful)" ],
+														[ 3, "Integrity. It is below me to ever lie or mislead; my listed price is my true price. (Good)" ],
+														[ 4, "People. I work for the community, not for the cause. (Neutral)" ],
+														[ 5, "Customer Obsession. The customer may not always be right, but they should always be happy. (Any)" ],
+														[ 6, "Change. The world, like my home, is never still, and I embrace everything new. (Chaotic) " ]
+													]
+												},
+												{
+													"type": "table",
+													"caption": "Walmorian-Born Bonds",
+													"page": 12,
+													"colLabels": [
+														"d6",
+														"Bond"
+													],
+													"rows": [
+														[ 1, "I side with the underdogs." ],
+														[ 2, "My friends and I will make a mark on the world. Permanently." ],
+														[ 3, "I left someone or something behind. My heart yearns to get them back." ],
+														[ 4, "I carry Walmoria with me. For better or worse." ],
+														[ 5, "My faction is my family." ],
+														[ 6, "I will free those trapped in Walmoria, even if it is the death of me. " ]
+													]
+												},
+												{
+													"type": "table",
+													"caption": "Walmorian-Born Flaws",
+													"page": 12,
+													"colLabels": [
+														"d6",
+														"Flaw"
+													],
+													"rows": [
+														[ 1, "Walmoria haunts me. I can never, ever relax." ],
+														[ 2, "I can't help but haggle over everything." ],
+														[ 3, "Walmoria sucks, but at least it's not the filthy world outside." ],
+														[ 4, "The thrill of mystery pulls at me, and I will find answers to those questions!" ],
+														[ 5, "I have a tendency to mouth off to authority figures." ],
+														[ 6, "The world is a playground to have fun with. Don't worry so much." ]
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Feats",
+							"page": 12,
+							"entries": [
+								"The following feats, in addition to those offered in other supplements, are available to any character whose class grants them access to a feat, inside or outside the world of Murka.",
+								{
+									"type": "entries",
+									"name": "Favored Customer",
+									"page": 12,
+									"entries": [
+										"You've managed to impress one of the many restaurants of Flavor City. Whether by conquering a food eating competition or by befriending a staff member with useful connections, you are now considered a favored customer. When you take this feat, increase either your Constitution score or Charisma score by 1, to a maximum of 20.",
+										"You gain access to a special delivery menu from your favored restaurant. Once per day, no matter where you are, you can order a rush delivery of enough food from the restaurant to feed one person. To do so, you must place the cost of the food and delivery fee (plus tip) on the menu. After 1 minute, the coins disappear, and the food appears on the menu with a gentle ring that only you can hear.",
+										"Creatures who eat a meal ordered in this way gain temporary hit points equal to half their class level (minimum 1) plus their Constitution modifier.",
+										"You may take this feat multiple times. Each time you take it, you may order enough food to feed one additional person."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Insured",
+									"page": 12,
+									"entries": [
+										"You've taken the precautions, put in the hours, and become insured⁠\u2014or maybe your family has always had bucks to spare. Your insurance policy covers the following benefits:",
+										"When you take this feat, instead of rolling a Hit Die or using the fixed value when increasing your hit point maximum for this level, your hit point maximum increases by 12 + your Constitution modifier.",
+										"You can purchase uncommon, common, and non-magical items from pharmacies and apothecaries that honor your insurance at half price.",
+										"Charisma (Persuasion) checks you make to haggle for healthcare services or healing items from shops outside your insurance network are made with advantage."
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Artificer",
+							"page": 14,
+							"entries": [
+								{
+									"type": "entries",
+									"name": "Custodian Specialist",
+									"page": 14,
+									"entries": [
+										"At 3rd level an Artificer gains the Specialist feature. The Custodian is an option available to Artificers, in addition to options available from other sources.",
+										"Organizations are only as strong as those who support them, and there are few supports stronger than a Custodian. Bastions that stand against filth and decay, Custodians maintain order around them, protecting that which is not broken, and repairing what is. Custodians are adept at completing jobs that others would not, or could not, do alone, making them as indispensable in a fight as they are in any business.",
+										{
+											"type": "table",
+											"caption": "Custodian Features",
+											"page": 14,
+											"colLabels": [
+												"Artificer Level",
+												"Feature"
+											],
+											"rows": [
+												[ "3rd" , "Tool Proficiencies, Custodian Spells, Mopping Up" ],
+												[ "5th" , "It's a Thankless Job..." ],
+												[ "9th" , "... But Somebody's Got To Do It" ],
+												[ "15th", "No Filth Unscrubbed" ]
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Proficiencies",
+											"entries": [
+												"When you adopt this specialization at 3rd level, you gain proficiency with clean-up supplies and heavy armor"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Custodian Spells",
+											"page": 14,
+											"entries": [
+												"Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Custodian Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.",
+												{
+													"type": "table",
+													"caption": "Custodian Spells Table",
+													"page": 14,
+													"colLabels": [
+														"Artificer Level",
+														"Spells"
+													],
+													"rows": [
+														["3rd", "{@spell absorb elements|XGE}, {@spell quality assurance|MoMRaR}" ],
+														["5th", "{@spell knock}, {@spell locate object}" ],
+														["9th", "{@spell stinking cloud}, {@spell patch job|MoMRaR}" ],
+														["13th", "{@spell true grit|MoM}*, {@spell clean sweep|MoMRaR}" ],
+														["17th", "{@spell telekinesis}, {@spell animate objects}" ]
+													],
+													"footnotes": [
+														"* from Monsters of Murka core book"
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Marked for Cleaning",
+											"page": 14,
+											"entries": [
+												"You are an expert at identifying problem areas and cleaning up after other people. At 3rd level, you gain the ability to designate a 20-foot cube that you can see as a clean-up zone.",
+												"Any creature that enters the clean-up zone has its speed reduced by half. Creatures within the clean-up zone which have half their hit points or fewer are Marked for Cleaning. Creatures marked in this way must succeed on a Wisdom saving throw in order to leave the clean-up zone.",
+												"The clean-up zone lasts until you attack any creature that is not within that zone. You can use this feature a number of times per long rest equal to your Intelligence modifier (minimum 1)."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "It's a Thankless Job ...",
+											"page": 14,
+											"entries": [
+												"At 5th level, you become even more proficient at cleaning up other people's messes. You infuse your attacks with a powerful and dangerous substance known as bleach. Your attacks and spells deal an additional 1d8 acid damage to creatures in your clean-up zone.",
+												"In addition, you gain resistance to acid damage and to damage dealt to you by creatures that have been Marked for Cleaning. When you reach 15th level, the extra damage increases to 2d8."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "... But Somebody's Got To Do It",
+											"page": 15,
+											"entries": [
+												"At 9th level, you understand that, to be effective at maintenance, you must be fearless of injury on the job. When you are in the area of effect of a spell, you can use your reaction to have the spell affect only you. If the spell has effects that last outside of the initial casting, other creatures in the area are still affected.",
+												"Once you use this feature, you must finish a short or long rest before you can use it again. When you reach 15th level, you can use this feature twice before finishing a short or long rest. When you reach 20th level you can use this feature 3 times before finishing a short or long rest."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Mopping Up",
+											"page": 15,
+											"entries": [
+												"At 15th level, you have mastered the art of cleaning up unfinished enemies. You have advantage on attack rolls against creatures that have been Marked for Cleaning."
+											]
+										},
+										{
+											"type": "inset",
+											"page": 15,
+											"name": "Somebody's Got To Do It Examples",
+											"entries": [
+												"The Custodian Artificer's Somebody's Gotta Do It ability can seem a little confusing at first.",
+												"Here are three examples of how this ability is intended to work that you may find helpful:",
+												"Fireball. Since there are no outside effects of fireball beyond the initial damage, the Custodian Artificer is the only one who would take damage from a fireball spell.",
+												"Storm Sphere. The artificer can use their Somebody's Gotta Do It ability on a casting of storm sphere, but it only affects the damage from the initial casting. Creatures who end their turn within the sphere still take damage as normal, and the caster can still use their bonus action to cause lightning to lash out at any creature within 60ft of the sphere's center.",
+												"Earthquake. The Artificer would be the only creature that needs to make either a Constitution or Dexterity saving throw, and only the Custodian's square would be affected by the continued dexterity saving throw but ANY creature standing there in the future would need to make that save. And any additional effects, such as fissures or damage to structures at the start of the casters next turn would still go off as normal, though what exactly constitutes the spell's area is up to each individual table."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Expanded Infusions",
+									"page": 16,
+									"entries": [
+										"The following Murkan magic items can be used with the Artificer's Replicate Item infusion.",
+										{
+											"type": "entries",
+											"name": "Expanded Replicable Items",
+											"page": 16,
+											"entries": [
+												{
+													"type": "table",
+													"caption": "2nd-level Artificer",
+													"page": 16,
+													"colLabels": [
+														"",
+														""
+													],
+													"rows": [
+														[
+															"{@item Direct Mailbag|MoM}*",
+															"{@item Dwarf Foreman Stove|MoM}*"
+														],
+														[
+															"{@item Mask of the Horse|MoM}*",
+															"{@item Sniffer Rifle|MoMRaR}"
+														],
+														[
+															"{@item Tuppa’s Chest of Wares|MoMRaR}*",
+															"{@item Tuppa’s Compact Furnishings|MoMRaR}"
+														]
+													]
+												},
+												{
+													"type": "table",
+													"caption": "6th-level Artificer",
+													"page": 16,
+													"colLabels": [
+														"",
+														""
+													],
+													"rows": [
+														[
+															"{@item A Salt Rifle|MoMRaR}",
+															"{@item Aisle Climber|MoMRaR}"
+														],
+														[
+															"{@item Glitter Bomb|MoMRaR}",
+															"{@item Glue Bomb|MoMRaR}"
+														],
+														[
+															"{@item Instagraph|MoM}*",
+															"{@item Maize’s Lockchop|MoMRaR}"
+														],
+														[
+															"{@item Pepperbox|MoMRaR}",
+															"{@item Scrying Spectacles|MoMRaR}"
+														],
+														[
+															"{@item Side Arm Scope|MoM}*",
+															"{@item Squonk Box|MoMCC}**"
+														],
+														[
+															"{@item Timbers|MoM}*",
+															"{@item Wand of the Forgotten Password|MoMRaR}*"
+														]
+													]
+												},
+												{
+													"type": "table",
+													"caption": "10th-level Artificer",
+													"page": 16,
+													"colLabels": [
+														"",
+														""
+													],
+													"rows": [
+														[
+															"{@item Aisle Climber|MoMRaR}",
+															"{@item Duck Tape|MoMRaR}"
+														],
+														[
+															"{@item Freedom Banner|MoM}*",
+															"{@item Magic Conch Shell|MoM}*"
+														],
+														[
+															"{@item Spyglass Scope|MoM}*",
+															"{@item Starkiller|MoM}*"
+														]
+													]
+												},
+												{
+													"type": "table",
+													"caption": "14th-level Artificer",
+													"page": 16,
+													"colLabels": [
+														"",
+														""
+													],
+													"rows": [
+														[
+															"{@item Be Gone! Fiend Repellent|MoMRaR}",
+															"{@item Brain Bleach|MoMRaR}"
+														],
+														[
+															"{@item Da Waefinder|MoMRaR}*",
+															"{@item Hat of the Scion of Stet|MoMRaR}*"
+														],
+														[
+															"{@item Kitchen Helper|MoMRaR}",
+															"{@item Non-Executionary Repeating Firearms|MoMRaR}"
+														],
+														[
+															"{@item Orb of Catching|MoMRaR}*",
+															"{@item Wand of Firearms|MoMRaR}*"
+														]
+													],
+													"footnotes": [
+														"* found in Monsters of Murka",
+														"** found in Cryptids Codex Volume 1"
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Wet Floor Sign",
+													"page": 16,
+													"entries": [
+														"a shield or other flat piece of wood",
+														"As an action, you can throw this sign up to 30 feet. The area beneath the sign becomes slick in a 10 foot radius. The area is difficult terrain. Each creature standing in the area when it appears must succeed on a Dexterity saving throw against your spell save DC or fall prone. A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or fall prone. The area is otherwise treated as difficult terrain."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Bulletproof Vest",
+													"page": 16,
+													"entries": [
+														"a set of armor",
+														"You imbue one piece of armor with projectile deflection properties. While a creature is wearing the bulletproof vest the armor absorbs the next three successful ranged attacks that would deal bludgeoning, piercing, or slashing damage to them. After the third hit, or a total of 50 points of absorbed damage, whichever comes first, the magic fades from the armor"
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"subclass": [
+			{
+			"name": "Custodian Specialist",
+			"source": "MoMRaR",
+			"page": 14,
+			"className": "Artificer",
+			"classSource": "TCE",
+			"shortName": "Custodian",
+			"subclassFeatures": [
+				"Custodian Spells|Artificer|TCE|Custodian|MoMRaR|3",
+				"Marked For Cleanup|Artificer|TCE|Custodian|MoMRaR|5",
+				"It's A Dirty Job|Artificer|TCE|Custodian|MoMRaR|9",
+				"Someones Got To Do It|Artificer|TCE|Custodian|MoMRaR|15"
+			],
+			"casterProgression": "full",
+			"spellcastingAbility": "int",
+			"subclassSpells": [
+				""
+			]
+		}
+	],
+	"subclassFeature": [
+		{
+			"name": "Custodian Spells",
+			"source": "MoMRaR",
+			"className": "Artificer",
+			"classSource": "TCE",
+			"page": 14,
+			"subclassShortName": "Custodian",
+			"subclassSource": "MoMRaR",
+			"level": 3,
+			"header": 2,
+			"entries": [
+				""
+			]
+		}
+	]
+}
